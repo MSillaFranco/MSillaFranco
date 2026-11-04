@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1456 816" role="img" aria-labelledby="t1">
+  <title id="t1">Grabado: un justificante de inferencia con la huella de un modelo y un sello de lacre con la palabra prueba, sobre fondo de tinta</title>
+  <defs>
+    <pattern id="h1" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(40)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1A1714" stroke-width="1.2"/>
+    </pattern>
+    <pattern id="h2" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(-35)">
+      <line x1="0" y1="0" x2="0" y2="4" stroke="#FAF7EE" stroke-width="0.8"/>
+    </pattern>
+    <pattern id="h3" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(60)">
+      <line x1="0" y1="0" x2="0" y2="5" stroke="#5A2C0C" stroke-width="1.4"/>
+    </pattern>
+  </defs>
+  <rect width="1456" height="816" fill="#1A1714"/>
+  <rect width="1456" height="816" fill="url(#h2)" opacity="0.08"/>
+
+  <!-- sombra del documento -->
+  <path d="M432 112 L1060 92 L1078 720 L450 742 Z" fill="#000" opacity="0.35" transform="translate(14 16)"/>
+  <!-- documento -->
+  <g transform="rotate(-1.8 728 410)">
+    <rect x="420" y="96" width="640" height="636" fill="#FAF7EE"/>
+    <rect x="440" y="116" width="600" height="596" fill="none" stroke="#1A1714" stroke-width="2"/>
+    <rect x="448" y="124" width="584" height="580" fill="none" stroke="#1A1714" stroke-width="0.8"/>
+
+    <g font-family="'Courier Prime', 'Courier New', monospace" fill="#1A1714">
+      <text x="740" y="176" text-anchor="middle" font-size="18" letter-spacing="6">JUSTIFICANTE</text>
+      <text x="740" y="230" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="46" font-weight="600" letter-spacing="1">de inferencia</text>
+      <line x1="520" y1="256" x2="960" y2="256" stroke="#1A1714" stroke-width="1.5"/>
+
+      <text x="490" y="306" font-size="17" letter-spacing="2">MODELO CONTRATADO</text>
+      <text x="990" y="306" text-anchor="end" font-size="17" letter-spacing="2">« X »</text>
+      <line x1="490" y1="318" x2="990" y2="318" stroke="#1A1714" stroke-dasharray="2 5"/>
+
+      <text x="490" y="356" font-size="17" letter-spacing="2">HUELLA DE PESOS</text>
+      <text x="990" y="356" text-anchor="end" font-size="17" letter-spacing="1">7f3a·c91e·04bd·…</text>
+      <line x1="490" y1="368" x2="990" y2="368" stroke="#1A1714" stroke-dasharray="2 5"/>
+
+      <text x="490" y="406" font-size="17" letter-spacing="2">CONTEXTO MÁXIMO</text>
+      <text x="990" y="406" text-anchor="end" font-size="17" letter-spacing="2">1.024 TOKENS</text>
+      <line x1="490" y1="418" x2="990" y2="418" stroke="#1A1714" stroke-dasharray="2 5"/>
+
+      <text x="490" y="456" font-size="17" letter-spacing="2">COSTE DE LA PRUEBA</text>
+      <text x="990" y="456" text-anchor="end" font-size="17" letter-spacing="2">70–95 × GPU</text>
+      <line x1="490" y1="468" x2="990" y2="468" stroke="#1A1714" stroke-dasharray="2 5"/>
+
+      <text x="490" y="506" font-size="17" letter-spacing="2">¿COINCIDE?</text>
+      <rect x="930" y="488" width="24" height="24" fill="none" stroke="#1A1714" stroke-width="2"/>
+      <rect x="966" y="488" width="24" height="24" fill="none" stroke="#1A1714" stroke-width="2"/>
+      <text x="942" y="532" text-anchor="middle" font-size="12">SÍ</text>
+      <text x="978" y="532" text-anchor="middle" font-size="12">NO</text>
+
+      <!-- firma -->
+      <path d="M500 640 c 30 -30 50 10 80 -10 c 24 -16 30 -40 50 -20 c 16 16 4 40 34 30 c 20 -6 30 -24 50 -14" fill="none" stroke="#1A1714" stroke-width="2.2"/>
+      <line x1="490" y1="660" x2="760" y2="660" stroke="#1A1714" stroke-width="1"/>
+      <text x="490" y="684" font-size="13" letter-spacing="2">FIRMA DEL PROVEEDOR</text>
+    </g>
+  </g>
+
+  <!-- sello de lacre -->
+  <g transform="translate(950 642) rotate(-12) scale(0.8)">
+    <path d="M-92 6 C -100 -50, -60 -96, 0 -98 C 58 -100, 104 -60, 98 0 C 102 56, 56 100, -4 98 C -62 100, -96 56, -92 6 Z" fill="#8B4513"/>
+    <path d="M-92 6 C -100 -50, -60 -96, 0 -98 C 58 -100, 104 -60, 98 0 C 102 56, 56 100, -4 98 C -62 100, -96 56, -92 6 Z" fill="url(#h3)" opacity="0.6"/>
+    <circle r="70" fill="none" stroke="#C9A84C" stroke-width="2.5"/>
+    <circle r="62" fill="none" stroke="#C9A84C" stroke-width="1"/>
+    <rect x="-24" y="-30" width="48" height="44" fill="none" stroke="#C9A84C" stroke-width="3"/>
+    <g stroke="#C9A84C" stroke-width="2.4">
+      <line x1="-14" y1="-30" x2="-14" y2="-40"/><line x1="0" y1="-30" x2="0" y2="-40"/><line x1="14" y1="-30" x2="14" y2="-40"/>
+      <line x1="-14" y1="14" x2="-14" y2="24"/><line x1="0" y1="14" x2="0" y2="24"/><line x1="14" y1="14" x2="14" y2="24"/>
+    </g>
+    <text x="0" y="50" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="16" font-weight="700" letter-spacing="4" fill="#C9A84C">PRUEBA</text>
+  </g>
+
+  <!-- cartela -->
+  <g font-family="'Courier Prime', 'Courier New', monospace" letter-spacing="3" font-size="18">
+    <text x="56" y="760" fill="#FAF7EE" font-weight="700">OCHIN KRASO · GOBERNANZA</text>
+    <text x="56" y="786" fill="#C9A84C">LÁM. I — PAGAR CON JUSTIFICANTE</text>
+  </g>
+</svg>

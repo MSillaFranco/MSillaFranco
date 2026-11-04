@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1456 720" role="img" aria-labelledby="t2">
+  <title id="t2">Esquema grabado: la cadena laboratorio, intermediario y tu empresa, con la prueba criptográfica que viaja con la respuesta y se comprueba al final</title>
+  <defs>
+    <pattern id="c1" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1A1714" stroke-width="1.3"/>
+    </pattern>
+    <pattern id="c2" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#1A1714" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1456" height="720" fill="#FAF7EE"/>
+  <rect x="24" y="24" width="1408" height="672" fill="none" stroke="#1A1714" stroke-width="2"/>
+  <rect x="36" y="36" width="1384" height="648" fill="none" stroke="#1A1714" stroke-width="0.8"/>
+
+  <text x="728" y="100" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="20" letter-spacing="4" fill="#8B4513">QUIÉN ACTÚA · DE DÓNDE SALE LA RESPUESTA</text>
+
+  <!-- Eslabón 1: laboratorio (edificio con columnas) -->
+  <g transform="translate(250 300)">
+    <path d="M-120 -40 L0 -110 L120 -40 Z" fill="url(#c1)" stroke="#1A1714" stroke-width="3"/>
+    <rect x="-120" y="-40" width="240" height="16" fill="#1A1714"/>
+    <g fill="#FAF7EE" stroke="#1A1714" stroke-width="3">
+      <rect x="-100" y="-24" width="28" height="130"/><rect x="-46" y="-24" width="28" height="130"/>
+      <rect x="18" y="-24" width="28" height="130"/><rect x="72" y="-24" width="28" height="130"/>
+    </g>
+    <rect x="-130" y="106" width="260" height="20" fill="#1A1714"/>
+    <text x="0" y="176" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="38" font-weight="600" fill="#1A1714">Laboratorio</text>
+    <text x="0" y="208" text-anchor="middle" font-family="'Crimson Pro', Georgia, serif" font-size="22" fill="#4A423A">entrena el modelo</text>
+  </g>
+
+  <!-- Eslabón 2: intermediario (cajas apiladas) -->
+  <g transform="translate(728 300)">
+    <rect x="-110" y="-10" width="220" height="116" fill="url(#c2)" stroke="#1A1714" stroke-width="3"/>
+    <rect x="-80" y="-92" width="160" height="82" fill="#FAF7EE" stroke="#1A1714" stroke-width="3"/>
+    <line x1="-80" y1="-60" x2="80" y2="-60" stroke="#1A1714" stroke-width="2"/>
+    <rect x="-130" y="106" width="260" height="20" fill="#1A1714"/>
+    <text x="0" y="-70" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="15" letter-spacing="2" fill="#1A1714">«MODELO X»</text>
+    <text x="0" y="176" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="38" font-weight="600" fill="#1A1714">Intermediario</text>
+    <text x="0" y="208" text-anchor="middle" font-family="'Crimson Pro', Georgia, serif" font-size="22" fill="#4A423A">lo empaqueta y lo revende</text>
+  </g>
+
+  <!-- Eslabón 3: tu empresa (oficina) -->
+  <g transform="translate(1206 300)">
+    <rect x="-100" y="-90" width="200" height="196" fill="#FAF7EE" stroke="#1A1714" stroke-width="3"/>
+    <g fill="#1A1714">
+      <rect x="-76" y="-70" width="36" height="30"/><rect x="-18" y="-70" width="36" height="30"/><rect x="40" y="-70" width="36" height="30"/>
+      <rect x="-76" y="-20" width="36" height="30"/><rect x="-18" y="-20" width="36" height="30"/><rect x="40" y="-20" width="36" height="30"/>
+    </g>
+    <rect x="-20" y="40" width="40" height="66" fill="url(#c1)" stroke="#1A1714" stroke-width="2"/>
+    <rect x="-130" y="106" width="260" height="20" fill="#1A1714"/>
+    <text x="0" y="176" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="38" font-weight="600" fill="#1A1714">Tu empresa</text>
+    <text x="0" y="208" text-anchor="middle" font-family="'Crimson Pro', Georgia, serif" font-size="22" fill="#4A423A">paga y lo pone a trabajar</text>
+  </g>
+
+  <!-- flechas con interrogante -->
+  <g stroke="#1A1714" stroke-width="3" fill="none">
+    <path d="M400 300 L 590 300"/><path d="M870 300 L 1080 300"/>
+  </g>
+  <g fill="#1A1714"><path d="M590 288 l 22 12 l -22 12 Z"/><path d="M1080 288 l 22 12 l -22 12 Z"/></g>
+  <g font-family="'Cormorant Garamond', Georgia, serif" font-size="64" font-weight="700" fill="#8B4513" text-anchor="middle">
+    <text x="496" y="270">?</text><text x="976" y="270">?</text>
+  </g>
+
+  <!-- la prueba que viaja -->
+  <path d="M250 560 C 600 600, 900 600, 1150 560" fill="none" stroke="#8B4513" stroke-width="3" stroke-dasharray="10 8"/>
+  <path d="M1146 548 l 22 10 l -20 14 Z" fill="#8B4513"/>
+  <g transform="translate(1206 556)">
+    <circle r="30" fill="#8B4513"/>
+    <circle r="22" fill="none" stroke="#C9A84C" stroke-width="2"/>
+    <path d="M-10 0 l 7 8 l 14 -16" fill="none" stroke="#C9A84C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="'Courier Prime', 'Courier New', monospace" font-size="17" letter-spacing="2" fill="#1A1714">
+    <text x="250" y="545" text-anchor="middle">HUELLA DE PESOS</text>
+    <text x="700" y="625" text-anchor="middle" fill="#8B4513">LA PRUEBA VIAJA CON LA RESPUESTA · ~18,8 MB POR PETICIÓN</text>
+    <text x="1206" y="616" text-anchor="middle">SE COMPRUEBA EN ~17 s</text>
+  </g>
+
+  <g font-family="'Courier Prime', 'Courier New', monospace" font-size="17" letter-spacing="3">
+    <text x="60" y="668" fill="#1A1714" font-weight="700">OCHIN KRASO · GOBERNANZA</text>
+    <text x="1396" y="668" text-anchor="end" fill="#8B4513">LÁM. II — LA CADENA SE ALARGA</text>
+  </g>
+</svg>

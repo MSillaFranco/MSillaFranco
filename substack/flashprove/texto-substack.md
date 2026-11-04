@@ -4,6 +4,8 @@
 
 *Ochin Kraso · 4 de noviembre de 2026*
 
+[IMAGEN: img/01-cabecera.png — pie: «Lámina I. En publicidad nadie paga sin justificante de emisión. Con la IA, todavía sí.»]
+
 ---
 
 Cuando una empresa contrata un servicio de IA, recibe texto. No recibe pruebas.
@@ -30,6 +32,8 @@ Anthropic plantea cuatro usos:
 - **Seguridad:** detectar respuestas manipuladas o modelos sustituidos.
 
 El segundo punto es el que más debería interesar a cualquier responsable de compras o de sistemas. Cada vez más herramientas de oficina llevan dentro el modelo de otro, y la cadena de proveedores se alarga.
+
+[IMAGEN: img/02-cadena.png — pie: «Lámina II. Entre quien entrena el modelo y quien lo usa hay cada vez más eslabones. La prueba viaja con la respuesta.»]
 
 ## La letra pequeña
 
@@ -62,6 +66,8 @@ Cópialas y pásalas a tu departamento de compras o a tu asesoría jurídica. So
 4. **Responsabilidad.** «Si el modelo en uso no coincide con el contratado, el proveedor responderá de [definir: penalización, resolución, indemnización].»
 
 La cuarta es la que más cuesta negociar y la que más importa. Sin ella, las tres primeras son una declaración de buenas intenciones.
+
+[IMAGEN: img/03-clausulas.png — pie: «Lámina III. Mientras la verificación técnica madura, el contrato es la norma. Guárdala para tu próxima negociación.»]
 
 ## Cierre
 

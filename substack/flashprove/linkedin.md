@@ -1,6 +1,7 @@
 # LinkedIn — Pagas por un modelo. ¿Quién te asegura que es ese?
 
 Estado: borrador en Typefully (id 11696795), sin programar ni publicar.
+Imagen: img/linkedin-portada.png (1080 x 1350)
 
 ---
 

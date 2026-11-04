@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1456 900" role="img" aria-labelledby="t3">
+  <title id="t3">Hoja de contrato grabada con cuatro cláusulas para contratar IA: identificación, cambios, verificación y responsabilidad, con la cuarta destacada</title>
+  <defs>
+    <pattern id="k1" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="5" stroke="#8B4513" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1456" height="900" fill="#FAF7EE"/>
+  <rect x="24" y="24" width="1408" height="852" fill="none" stroke="#1A1714" stroke-width="2"/>
+  <rect x="36" y="36" width="1384" height="828" fill="none" stroke="#1A1714" stroke-width="0.8"/>
+
+  <text x="120" y="120" font-family="'Courier Prime', 'Courier New', monospace" font-size="20" letter-spacing="5" fill="#8B4513">PLANTILLA · ANTES DE FIRMAR CON UN PROVEEDOR DE IA</text>
+  <text x="120" y="190" font-family="'Cormorant Garamond', Georgia, serif" font-size="64" font-weight="600" fill="#1A1714">Cuatro cláusulas</text>
+  <line x1="120" y1="222" x2="1336" y2="222" stroke="#1A1714" stroke-width="2"/>
+
+  <g font-family="'Crimson Pro', Georgia, serif" fill="#1A1714">
+    <!-- 1 -->
+    <text x="120" y="300" font-family="'Cormorant Garamond', Georgia, serif" font-size="58" font-weight="700" fill="#C9A84C">I</text>
+    <text x="210" y="280" font-family="'Courier Prime', 'Courier New', monospace" font-size="18" letter-spacing="4">IDENTIFICACIÓN</text>
+    <text x="210" y="316" font-size="28">El proveedor identifica el modelo y la versión exactos del servicio.</text>
+    <line x1="120" y1="346" x2="1336" y2="346" stroke="#CFC6B4" stroke-width="1.5"/>
+    <!-- 2 -->
+    <text x="120" y="424" font-family="'Cormorant Garamond', Georgia, serif" font-size="58" font-weight="700" fill="#C9A84C">II</text>
+    <text x="210" y="404" font-family="'Courier Prime', 'Courier New', monospace" font-size="18" letter-spacing="4">CAMBIOS</text>
+    <text x="210" y="440" font-size="28">Cualquier sustitución o actualización se avisa por escrito y con antelación.</text>
+    <line x1="120" y1="470" x2="1336" y2="470" stroke="#CFC6B4" stroke-width="1.5"/>
+    <!-- 3 -->
+    <text x="120" y="548" font-family="'Cormorant Garamond', Georgia, serif" font-size="58" font-weight="700" fill="#C9A84C">III</text>
+    <text x="210" y="528" font-family="'Courier Prime', 'Courier New', monospace" font-size="18" letter-spacing="4">VERIFICACIÓN</text>
+    <text x="210" y="564" font-size="28">El cliente puede pedir evidencias de que el modelo en uso es el contratado.</text>
+  </g>
+
+  <!-- 4 destacada -->
+  <rect x="96" y="604" width="1264" height="150" fill="url(#k1)" opacity="0.22"/>
+  <rect x="96" y="604" width="1264" height="150" fill="none" stroke="#8B4513" stroke-width="3"/>
+  <g font-family="'Crimson Pro', Georgia, serif" fill="#1A1714">
+    <text x="120" y="690" font-family="'Cormorant Garamond', Georgia, serif" font-size="58" font-weight="700" fill="#8B4513">IV</text>
+    <text x="210" y="660" font-family="'Courier Prime', 'Courier New', monospace" font-size="18" letter-spacing="4" fill="#8B4513" font-weight="700">RESPONSABILIDAD</text>
+    <text x="210" y="696" font-size="28" font-weight="600">Si el modelo no es el contratado, el proveedor responde:</text>
+    <text x="210" y="732" font-size="28">penalización, resolución o indemnización, por escrito.</text>
+  </g>
+
+  <text x="1336" y="800" text-anchor="end" font-family="'Cormorant Garamond', Georgia, serif" font-style="italic" font-size="30" fill="#8B4513">Sin la cuarta, las otras tres son buenas intenciones.</text>
+
+  <g font-family="'Courier Prime', 'Courier New', monospace" font-size="17" letter-spacing="3">
+    <text x="60" y="848" fill="#1A1714" font-weight="700">OCHIN KRASO · GOBERNANZA</text>
+    <text x="1396" y="848" text-anchor="end" fill="#8B4513">LÁM. III — EL CONTRATO ES LA NORMA</text>
+  </g>
+</svg>

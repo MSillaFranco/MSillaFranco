@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" role="img" aria-labelledby="tl">
+  <title id="tl">Portada del post: Pagas por un modelo. ¿Quién te asegura que es ese? Con un sello de lacre con la palabra prueba</title>
+  <defs>
+    <pattern id="l1" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(60)">
+      <line x1="0" y1="0" x2="0" y2="5" stroke="#5A2C0C" stroke-width="1.4"/>
+    </pattern>
+    <pattern id="l2" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(-40)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#1A1714" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#FAF7EE"/>
+  <rect x="32" y="32" width="1016" height="1286" fill="none" stroke="#1A1714" stroke-width="3"/>
+  <rect x="44" y="44" width="992" height="1262" fill="none" stroke="#1A1714" stroke-width="1"/>
+
+  <g font-family="'Courier Prime', 'Courier New', monospace" font-size="22" letter-spacing="6">
+    <text x="96" y="132" fill="#1A1714" font-weight="700">OCHIN KRASO</text>
+    <text x="984" y="132" text-anchor="end" fill="#8B4513">GOBERNANZA DE IA</text>
+  </g>
+  <line x1="96" y1="156" x2="984" y2="156" stroke="#1A1714" stroke-width="2"/>
+
+  <g font-family="'Cormorant Garamond', Georgia, serif" fill="#1A1714" font-weight="600">
+    <text x="96" y="290" font-size="104">Pagas por</text>
+    <text x="96" y="396" font-size="104">un modelo.</text>
+  </g>
+  <g font-family="'Cormorant Garamond', Georgia, serif" fill="#8B4513" font-style="italic" font-weight="500">
+    <text x="96" y="500" font-size="76">¿Quién te asegura</text>
+    <text x="96" y="584" font-size="76">que es ese?</text>
+  </g>
+
+  <!-- sello -->
+  <g transform="translate(760 860) rotate(-10)">
+        <path d="M-150 10 C -164 -84, -98 -158, 0 -160 C 96 -164, 170 -98, 160 0 C 166 92, 92 164, -6 160 C -102 164, -156 92, -150 10 Z" fill="#8B4513"/>
+    <path d="M-150 10 C -164 -84, -98 -158, 0 -160 C 96 -164, 170 -98, 160 0 C 166 92, 92 164, -6 160 C -102 164, -156 92, -150 10 Z" fill="url(#l1)" opacity="0.55"/>
+    <circle r="116" fill="none" stroke="#C9A84C" stroke-width="3"/>
+    <circle r="104" fill="none" stroke="#C9A84C" stroke-width="1.2"/>
+    <rect x="-38" y="-52" width="76" height="70" fill="none" stroke="#C9A84C" stroke-width="4"/>
+    <g stroke="#C9A84C" stroke-width="3">
+      <line x1="-22" y1="-52" x2="-22" y2="-68"/><line x1="0" y1="-52" x2="0" y2="-68"/><line x1="22" y1="-52" x2="22" y2="-68"/>
+      <line x1="-22" y1="18" x2="-22" y2="34"/><line x1="0" y1="18" x2="0" y2="34"/><line x1="22" y1="18" x2="22" y2="34"/>
+    </g>
+    <text x="0" y="78" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="26" font-weight="700" letter-spacing="6" fill="#C9A84C">PRUEBA</text>
+  </g>
+
+  <g font-family="'Courier Prime', 'Courier New', monospace" fill="#1A1714" font-size="24" letter-spacing="2">
+    <text x="96" y="760">FLASHPROVE · 2.XI.2026</text>
+    <text x="96" y="806">70–95 × MÁS CÁLCULO</text>
+    <text x="96" y="852">HASTA 1.024 TOKENS</text>
+    <text x="96" y="898">PROTOTIPO</text>
+  </g>
+
+  <line x1="96" y1="1140" x2="984" y2="1140" stroke="#1A1714" stroke-width="2"/>
+  <text x="96" y="1200" font-family="'Crimson Pro', Georgia, serif" font-size="36" fill="#1A1714">Cuatro cláusulas antes de firmar con un</text>
+  <text x="96" y="1246" font-family="'Crimson Pro', Georgia, serif" font-size="36" fill="#1A1714">proveedor de IA. <tspan fill="#8B4513" font-style="italic">La cuarta es la que importa.</tspan></text>
+</svg>
