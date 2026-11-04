@@ -1,8 +1,9 @@
 # LinkedIn derivado — La IA ya responde desde la órbita
 
-Estado: borrador en Typefully (id 11696031), sin programar ni publicar.
+Estado: PUBLICADO en LinkedIn el 04/11/2026, 14:03 (España), vía Typefully (id 11696031).
+URL: https://www.linkedin.com/feed/update/urn:li:share:7523731708865699840
 Imagen: img/01-cabecera.png
-Pendiente: sustituir [URL DEL ARTÍCULO EN SUBSTACK] por la URL real.
+Versión independiente: sin enlace a Substack (el artículo no se publica).
 
 ---
 
@@ -26,7 +27,6 @@ La tecnología ya está en órbita. La rendición de cuentas sigue en tierra.
 
 Y lo que vale allí arriba vale en tu oficina: ¿qué datos salen de casa, dónde pruebas lo que propone la IA antes de usarlo y quién responde si falla?
 
-Lo desarrollo en Substack, con una plantilla de cuatro preguntas para llevar a tu próxima reunión de proyecto:
-[URL DEL ARTÍCULO EN SUBSTACK]
+¿Cuál de las tres preguntas está sin contestar en tu organización? Te leo en comentarios.
 
 #InteligenciaArtificial #Gobernanza #IA #Espacio #Robótica
