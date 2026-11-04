@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1456 820" role="img" aria-labelledby="t4">
+  <title id="t4">Esquema grabado: tres órbitas concéntricas alrededor de la Tierra con las preguntas de gobernanza: quién actúa, quién responde y qué norma aplica</title>
+  <defs>
+    <pattern id="g1" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(40)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1A1714" stroke-width="1.4"/>
+    </pattern>
+  </defs>
+  <rect width="1456" height="820" fill="#FAF7EE"/>
+  <rect x="24" y="24" width="1408" height="772" fill="none" stroke="#1A1714" stroke-width="2"/>
+
+  <!-- Tierra y órbitas -->
+  <g transform="translate(400 410)">
+    <circle r="300" fill="none" stroke="#1A1714" stroke-width="1.2" stroke-dasharray="3 9"/>
+    <circle r="210" fill="none" stroke="#1A1714" stroke-width="1.2" stroke-dasharray="3 9"/>
+    <circle r="120" fill="none" stroke="#1A1714" stroke-width="1.2" stroke-dasharray="3 9"/>
+    <circle r="62" fill="url(#g1)" stroke="#1A1714" stroke-width="3"/>
+    <path d="M-30 -20 c 14 -12 36 -10 40 6 c 4 14 -18 22 -32 16 c -10 -4 -14 -14 -8 -22 Z" fill="#FAF7EE"/>
+    <!-- marcadores en órbita -->
+    <g>
+      <rect x="78" y="-96" width="22" height="22" fill="#C9A84C" stroke="#1A1714" stroke-width="2.5" transform="rotate(20 89 -85)"/>
+      <rect x="140" y="140" width="22" height="22" fill="#8B4513" stroke="#1A1714" stroke-width="2.5"/>
+      <rect x="-226" y="-196" width="22" height="22" fill="#1A1714" stroke="#1A1714" stroke-width="2.5"/>
+    </g>
+    <g font-family="'Courier Prime', 'Courier New', monospace" font-size="15" letter-spacing="2" fill="#1A1714">
+      <text x="0" y="-128" text-anchor="middle">ACTÚA</text>
+      <text x="0" y="-218" text-anchor="middle">RESPONDE</text>
+      <text x="0" y="-308" text-anchor="middle">NORMA</text>
+    </g>
+  </g>
+
+  <!-- Columna de preguntas -->
+  <g transform="translate(780 140)">
+    <text x="0" y="0" font-family="'Courier Prime', 'Courier New', monospace" font-size="18" letter-spacing="4" fill="#8B4513">TRES PREGUNTAS ANTES DEL LANZAMIENTO</text>
+    <line x1="0" y1="20" x2="600" y2="20" stroke="#1A1714" stroke-width="1.5"/>
+
+    <rect x="0" y="62" width="22" height="22" fill="#C9A84C" stroke="#1A1714" stroke-width="2.5"/>
+    <text x="40" y="82" font-family="'Cormorant Garamond', Georgia, serif" font-size="40" font-weight="600" fill="#1A1714">¿Quién actúa?</text>
+    <text x="40" y="118" font-family="'Crimson Pro', Georgia, serif" font-size="24" fill="#1A1714">Empresas, agencias y laboratorios estatales.</text>
+
+    <rect x="0" y="202" width="22" height="22" fill="#8B4513" stroke="#1A1714" stroke-width="2.5"/>
+    <text x="40" y="222" font-family="'Cormorant Garamond', Georgia, serif" font-size="40" font-weight="600" fill="#1A1714">¿Quién responde?</text>
+    <text x="40" y="258" font-family="'Crimson Pro', Georgia, serif" font-size="24" fill="#1A1714">El Estado que autoriza al operador (Tratado de 1967).</text>
+
+    <rect x="0" y="342" width="22" height="22" fill="#1A1714" stroke="#1A1714" stroke-width="2.5"/>
+    <text x="40" y="362" font-family="'Cormorant Garamond', Georgia, serif" font-size="40" font-weight="600" fill="#1A1714">¿Qué norma aplica?</text>
+    <text x="40" y="398" font-family="'Crimson Pro', Georgia, serif" font-size="24" fill="#1A1714">Licencias de órbita y espectro. Sobre la decisión</text>
+    <text x="40" y="428" font-family="'Crimson Pro', Georgia, serif" font-size="24" fill="#1A1714">automatizada a bordo, casi nada escrito.</text>
+
+    <line x1="0" y1="490" x2="600" y2="490" stroke="#1A1714" stroke-width="1.5"/>
+    <text x="0" y="532" font-family="'Cormorant Garamond', Georgia, serif" font-style="italic" font-size="30" fill="#8B4513">La tecnología ya está en órbita. La rendición</text>
+    <text x="0" y="568" font-family="'Cormorant Garamond', Georgia, serif" font-style="italic" font-size="30" fill="#8B4513">de cuentas sigue en tierra.</text>
+  </g>
+
+  <g font-family="'Courier Prime', 'Courier New', monospace" font-size="17" letter-spacing="3">
+    <text x="60" y="768" fill="#1A1714" font-weight="700">OCHIN KRASO · ROBÓTICA</text>
+    <text x="1396" y="768" text-anchor="end" fill="#8B4513">LÁM. IV — GOBERNAR LA ÓRBITA</text>
+  </g>
+</svg>

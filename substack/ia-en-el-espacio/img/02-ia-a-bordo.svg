@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1456 760" role="img" aria-labelledby="t2">
+  <title id="t2">Grabado: el satélite captura muchas imágenes en bruto, las filtra a bordo con IA y solo envía a tierra lo relevante</title>
+  <defs>
+    <pattern id="b1" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1A1714" stroke-width="1.4"/>
+    </pattern>
+    <pattern id="b2" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)">
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#1A1714" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1456" height="760" fill="#FAF7EE"/>
+  <rect x="24" y="24" width="1408" height="712" fill="none" stroke="#1A1714" stroke-width="2"/>
+  <rect x="36" y="36" width="1384" height="688" fill="none" stroke="#1A1714" stroke-width="0.8"/>
+
+  <!-- Encabezados de columna -->
+  <g font-family="'Courier Prime', 'Courier New', monospace" font-size="20" letter-spacing="3" fill="#1A1714" text-anchor="middle">
+    <text x="270" y="96">CAPTURA</text>
+    <text x="728" y="96">FILTRO A BORDO</text>
+    <text x="1186" y="96">LO QUE BAJA</text>
+  </g>
+  <g stroke="#1A1714" stroke-width="1"><line x1="499" y1="70" x2="499" y2="660"/><line x1="957" y1="70" x2="957" y2="660"/></g>
+
+  <!-- Columna 1: pila de fotogramas en bruto -->
+  <g>
+    <rect x="150" y="200" width="200" height="140" fill="#FAF7EE" stroke="#1A1714" stroke-width="2" transform="rotate(-8 250 270)"/>
+    <rect x="160" y="230" width="200" height="140" fill="#FAF7EE" stroke="#1A1714" stroke-width="2" transform="rotate(5 260 300)"/>
+    <rect x="170" y="262" width="200" height="140" fill="url(#b2)" stroke="#1A1714" stroke-width="2" transform="rotate(-3 270 332)"/>
+    <rect x="180" y="296" width="200" height="140" fill="#FAF7EE" stroke="#1A1714" stroke-width="2.4"/>
+    <!-- paisaje en el fotograma superior -->
+    <path d="M180 400 C 220 360, 260 380, 290 350 C 320 320, 350 350, 380 330 L380 436 L180 436 Z" fill="url(#b1)"/>
+    <path d="M300 330 l 12 -10 l 12 10 l -12 10 Z" fill="#8B4513"/>
+    <rect x="180" y="436" width="200" height="0" />
+    <rect x="164" y="470" width="232" height="40" fill="none" stroke="#1A1714" stroke-dasharray="4 4"/>
+    <text x="280" y="497" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="18" fill="#1A1714">TERABYTES EN BRUTO</text>
+  </g>
+
+  <!-- Flechas de entrada -->
+  <g stroke="#1A1714" stroke-width="3" fill="none">
+    <path d="M410 330 L 560 330"/><path d="M410 370 L 560 370"/><path d="M410 410 L 560 410"/>
+  </g>
+  <g fill="#1A1714"><path d="M560 320 l 18 10 l -18 10 Z"/><path d="M560 360 l 18 10 l -18 10 Z"/><path d="M560 400 l 18 10 l -18 10 Z"/></g>
+
+  <!-- Columna 2: embudo con chip -->
+  <path d="M590 250 L 866 250 L 772 470 L 684 470 Z" fill="url(#b2)" stroke="#1A1714" stroke-width="3"/>
+  <rect x="684" y="470" width="88" height="70" fill="#1A1714"/>
+  <rect x="694" y="304" width="68" height="68" fill="#C9A84C" stroke="#1A1714" stroke-width="3"/>
+  <g stroke="#1A1714" stroke-width="2.5">
+    <line x1="704" y1="304" x2="704" y2="292"/><line x1="720" y1="304" x2="720" y2="292"/><line x1="736" y1="304" x2="736" y2="292"/><line x1="752" y1="304" x2="752" y2="292"/>
+    <line x1="704" y1="372" x2="704" y2="384"/><line x1="720" y1="372" x2="720" y2="384"/><line x1="736" y1="372" x2="736" y2="384"/><line x1="752" y1="372" x2="752" y2="384"/>
+  </g>
+  <text x="728" y="344" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="16" font-weight="700" fill="#1A1714">IA</text>
+  <text x="728" y="600" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-style="italic" font-size="30" fill="#1A1714">se decide arriba qué merece bajar</text>
+
+  <!-- Flecha de salida (una sola, fina) -->
+  <path d="M790 505 C 900 505, 960 420, 1060 400" fill="none" stroke="#8B4513" stroke-width="3" stroke-dasharray="10 8"/>
+  <path d="M1058 390 l 20 8 l -16 14 Z" fill="#8B4513"/>
+
+  <!-- Columna 3: un único fotograma relevante -->
+  <rect x="1096" y="300" width="180" height="128" fill="#FAF7EE" stroke="#1A1714" stroke-width="3"/>
+  <path d="M1096 400 C 1130 370, 1170 384, 1196 360 C 1220 340, 1250 360, 1276 346 L 1276 428 L 1096 428 Z" fill="url(#b1)"/>
+  <circle cx="1210" cy="352" r="26" fill="none" stroke="#8B4513" stroke-width="4"/>
+  <text x="1186" y="470" text-anchor="middle" font-family="'Courier Prime', 'Courier New', monospace" font-size="18" fill="#1A1714">SOLO LO RELEVANTE</text>
+  <!-- antena de tierra -->
+  <g transform="translate(1186 560)">
+    <path d="M-18 40 L0 6 L18 40 Z" fill="#1A1714"/>
+    <path d="M-30 4 A 34 34 0 0 0 30 -10" fill="none" stroke="#1A1714" stroke-width="4"/>
+  </g>
+
+  <g font-family="'Courier Prime', 'Courier New', monospace" font-size="17" letter-spacing="3">
+    <text x="60" y="700" fill="#1A1714" font-weight="700">OCHIN KRASO · ROBÓTICA</text>
+    <text x="1396" y="700" text-anchor="end" fill="#8B4513">LÁM. II — PROCESAR DONDE NACE EL DATO</text>
+  </g>
+</svg>
