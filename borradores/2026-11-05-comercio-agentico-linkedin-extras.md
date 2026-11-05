@@ -17,3 +17,11 @@ Fuentes, para quien quiera ir al original:
 - Parlamento Europeo, acuerdo sobre la reforma de pagos PSD3 y el Reglamento de Servicios de Pago: https://www.europarl.europa.eu/news/en/press-room/20251121IPR31540/payment-services-deal-more-protection-from-online-fraud-and-hidden-fees
 
 Desarrollo el tema con una plantilla de política de compras para agentes en Substack: [ENLACE AL ARTÍCULO]
+
+## Imagen realista (alternativa)
+
+Imagen: imagenes/2026-11-05-comercio-agentico-realista.png (1080 x 1350, formato 4:5). Render 3D, no fotografía.
+
+Texto alternativo:
+
+Escritorio de oficina de noche, iluminado por un flexo, con la ciudad desenfocada tras la ventana. Sobre la mesa, una caja de cartón abierta y vacía, un documento titulado "Mandato de compra" con la línea de firma en blanco y un bolígrafo rojo al lado. En el portátil, la pantalla de un agente de compras muestra "Pedido confirmado" y un aviso en rojo: la solicitud original era de 4 sillas y no consta quién lo aprobó. Arriba, el texto: "¿Quién responde cuando el agente al que dimos permiso para comprar se equivoca?". Abajo: "Escena ficticia. Imagen generada por ordenador (render 3D)".
