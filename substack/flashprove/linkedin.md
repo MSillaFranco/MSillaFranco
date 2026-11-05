@@ -1,6 +1,7 @@
 # LinkedIn — Pagas por un modelo. ¿Quién te asegura que es ese?
 
-Estado: borrador en Typefully (id 11696795), sin programar ni publicar.
+Estado: PUBLICADO en LinkedIn el 05/11/2026, 12:05 (España), vía Typefully (id 11696795).
+URL: https://www.linkedin.com/feed/update/urn:li:share:7524064264085602304
 Imagen: img/linkedin-portada.png (1080 x 1350)
 
 ---
