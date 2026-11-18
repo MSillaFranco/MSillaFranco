@@ -34,7 +34,7 @@ Incluye un ejemplo rellenado con un caso ficticio, un agente que reserva espacio
 ## Texto alternativo de la imagen del post
 
 ```
-Infografía «La escalera de delegación» del mandato del agente de IA. Cuatro peldaños: 1 Recomienda, 2 Propone, 3 Actúa con mandato (destacado como el peldaño de la plantilla) y 4 Negocia sin revisión. Abajo: «Diez campos. Si alguno queda en blanco, la delegación no está lista.»
+Infografía «La escalera de delegación», de Ochin Kraso, sobre el mandato del agente de IA. Cuatro peldaños numerados unidos por una línea dorada, de arriba abajo: 4, Negocia sin revisión: decide y actúa sin que nadie lo revise. 3, Actúa con mandato: ejecuta dentro de límites escritos; está destacado como el peldaño para el que sirve la plantilla. 2, Propone: prepara la acción y tú la apruebas. 1, Recomienda: sugiere y tú haces todo. Caja destacada: «Diez campos. Si alguno queda en blanco, la delegación no está lista.» Pie con la firma de Mariano Silla y la fuente: Plantilla del mandato del agente de IA.
 ```
 
 ## Carrusel de LinkedIn

@@ -42,13 +42,16 @@ Crea la carpeta ./maquetas/<slug-del-titulo>/ con:
 5. substack-email.html    -> la vista de la newsletter en el correo, a 600 px de ancho.
 6. textos.md              -> todos los textos finales listos para copiar y pegar.
 
-Estilo visual de Ochin Kraso:
-- Paleta: fondo #F7F5F0, texto #1A1A1A, acento #C2410C, gris secundario #6B6B6B
-  (cámbiala aquí cuando tengas la definitiva).
-- Tipografía: sans para LinkedIn y serif para el cuerpo de Substack (fuentes del
-  sistema, sin cargar nada de fuera).
-- Sobrio, con mucho aire, jerarquía clara y sin adornos.
-- Las maquetas imitan la estructura de cada plataforma, pero no usan sus logotipos.
+Estilo visual de Ochin Kraso (fuente única: skill ochin-kraso-marca; si hay discrepancia, manda la ficha):
+- Papel #FAF7EE, tinta #1A1714, acento #8B4513, dorado #C9A84C, muted #5E564C.
+  Sobre fondo oscuro, el acento pasa a dorado para mantener el contraste.
+- Serif para titulares y cuerpo: Cormorant Garamond o Georgia; si no están, Caladea.
+  Mono para cabeceras, etiquetas y pies: Courier New o DM Mono. Filetes en dorado.
+- La interfaz de cada plataforma (barra, botones, reacciones) puede ir en sans para
+  que la maqueta sea realista; las piezas de marca, no.
+- Toda cifra lleva su fuente en el pie, con el nombre exacto del documento y la sección.
+- Cabecera de Substack a 1600x900. Texto alternativo de hasta 1.000 caracteres, medido con código.
+- Sobrio, con mucho aire, jerarquía clara, sin emojis ni adornos. Sin logotipos de las plataformas.
 
 PASO 3. EXPORTACIÓN Y REVISIÓN
 - Con Playwright (ya instalado), saca una captura PNG de cada HTML con

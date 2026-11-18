@@ -1,35 +1,45 @@
 <!doctype html><html lang="es"><head><meta charset="utf-8"><title>Imagen post mandato</title>
 <style>
+:root{--paper:#FAF7EE;--ink:#1A1714;--accent:#8B4513;--gold:#C9A84C;--muted:#5E564C;
+--serif:'Cormorant Garamond',Georgia,Caladea,serif;--mono:'Courier New','DM Mono','Courier 10 Pitch',monospace}
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#ccc;font-family:Inter,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;color:#1A1A1A}
-.c{width:1080px;height:1350px;background:#F7F5F0;padding:96px 90px 0;position:relative;overflow:hidden}
-.kick{font-size:28px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:#C2410C;margin-bottom:36px}
-h1{font-family:'Inter Display',Inter,sans-serif;font-size:76px;line-height:1.04;font-weight:800;letter-spacing:-.03em;margin-bottom:22px}
-.sub{font-size:34px;line-height:1.3;color:#6B6B6B;margin-bottom:56px}
-.stairs{display:flex;flex-direction:column;gap:14px}
-.st{display:flex;align-items:center;gap:26px;height:150px;padding:0 32px;border-radius:14px;background:#fff;border:2px solid #E4E0D8}
-.n{font-family:'Inter Display',Inter,sans-serif;font-size:72px;font-weight:800;color:#C2410C;width:56px;flex:none}
-.t{font-size:38px;font-weight:700;margin-bottom:6px}
-.d{font-size:27px;line-height:1.3;color:#444}
-.tag{margin-left:auto;font-size:22px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:10px 16px;border-radius:999px;flex:none}
-.s4{margin-left:0;width:760px;background:transparent;border:2px dashed #B9B4AA}
-.s4 .n,.s4 .t{color:#8A857C}.s4 .d{color:#8A857C}
-.s3{margin-left:80px;width:820px;background:#1A1A1A;border-color:#1A1A1A;color:#F7F5F0}
-.s3 .d{color:#D9D4CA}.s3 .tag{background:#C2410C;color:#fff}
-.s2{margin-left:160px;width:740px}.s1{margin-left:240px;width:660px}
-.rule{position:absolute;left:90px;right:90px;bottom:150px;border-left:10px solid #C2410C;padding-left:30px;font-size:38px;line-height:1.25;font-weight:700}
-.foot{position:absolute;left:90px;right:90px;bottom:60px;display:flex;justify-content:space-between;font-size:23px;color:#6B6B6B;border-top:2px solid #E4E0D8;padding-top:24px}
+body{background:#ccc}
+.c{width:1080px;height:1350px;background:var(--paper);color:var(--ink);font-family:var(--serif);padding:72px 90px 0;position:relative;overflow:hidden}
+.hd{display:flex;justify-content:space-between;font-family:var(--mono);font-size:24px;font-weight:700;letter-spacing:.16em;padding-bottom:18px;border-bottom:4px solid var(--gold)}
+.hd .t{color:var(--accent)}
+h1{font-size:88px;line-height:1;font-weight:700;letter-spacing:-.01em;margin:36px 0 14px}
+.sub{font-size:34px;line-height:1.25;font-style:italic;color:var(--muted);margin-bottom:30px}
+.steps{position:relative}
+.steps:before{content:"";position:absolute;left:39px;top:40px;bottom:40px;width:4px;background:var(--gold)}
+.st{display:flex;align-items:center;gap:34px;height:112px;position:relative}
+.n{width:82px;height:82px;border-radius:50%;border:4px solid var(--gold);background:var(--paper);display:flex;align-items:center;justify-content:center;font-size:44px;font-weight:700;color:var(--accent);flex:none}
+.nm{font-size:44px;font-weight:700;line-height:1.05}
+.d{font-size:30px;color:var(--muted);margin-top:4px}
+.tag{font-family:var(--mono);font-size:20px;font-weight:700;letter-spacing:.12em;color:var(--gold);margin-left:14px;vertical-align:middle}
+.s3 .n{background:var(--accent);border-color:var(--accent);color:var(--paper)}
+.s4 .nm,.s4 .n{color:var(--muted)}.s4 .n{border-style:dashed}
+.box{margin-top:28px;background:var(--accent);color:var(--paper);padding:26px 36px;font-size:42px;line-height:1.2;font-weight:700}
+.ft{position:absolute;left:90px;right:90px;bottom:48px;border-top:3px solid var(--gold);padding-top:24px}
+.who{display:flex;align-items:center;gap:22px}
+.av{width:78px;height:78px;border-radius:50%;background:var(--ink);color:var(--paper);display:flex;align-items:center;justify-content:center;font-size:30px;font-weight:700;flex:none}
+.name{font-size:32px;font-weight:700}
+.role{font-family:var(--mono);font-size:19px;letter-spacing:.12em;color:var(--muted);margin-top:4px}
+.ph{margin-left:auto;font-size:30px;font-style:italic;color:var(--accent)}
+.src{font-family:var(--mono);font-size:17px;color:var(--muted);margin-top:16px}
 </style></head><body>
 <div class="c" id="img">
-<div class="kick">Mandato del agente de IA</div>
+<div class="hd"><span>OCHIN KRASO</span><span class="t">MANDATO DEL AGENTE DE IA</span></div>
 <h1>La escalera de delegación</h1>
 <p class="sub">Decide hasta dónde llega el agente antes de delegar, no después del primer problema.</p>
-<div class="stairs">
- <div class="st s4"><div class="n">4</div><div><div class="t">Negocia sin revisión</div><div class="d">Decide y actúa sin que nadie lo revise</div></div></div>
- <div class="st s3"><div class="n">3</div><div><div class="t">Actúa con mandato</div><div class="d">Ejecuta dentro de límites escritos</div></div><div class="tag">La plantilla</div></div>
- <div class="st s2"><div class="n">2</div><div><div class="t">Propone</div><div class="d">Prepara la acción y tú la apruebas</div></div></div>
- <div class="st s1"><div class="n">1</div><div><div class="t">Recomienda</div><div class="d">Sugiere y tú haces todo</div></div></div>
+<div class="steps">
+ <div class="st s4"><div class="n">4</div><div><div class="nm">Negocia sin revisión</div><div class="d">Decide y actúa sin que nadie lo revise</div></div></div>
+ <div class="st s3"><div class="n">3</div><div><div class="nm">Actúa con mandato<span class="tag">LA PLANTILLA</span></div><div class="d">Ejecuta dentro de límites escritos</div></div></div>
+ <div class="st"><div class="n">2</div><div><div class="nm">Propone</div><div class="d">Prepara la acción y tú la apruebas</div></div></div>
+ <div class="st"><div class="n">1</div><div><div class="nm">Recomienda</div><div class="d">Sugiere y tú haces todo</div></div></div>
 </div>
-<div class="rule">Diez campos. Si alguno queda en blanco, la delegación no está lista.</div>
-<div class="foot"><span>Mariano · Ochin Kraso · Gobernanza de IA para publicidad, comunicación y medios</span></div>
+<div class="box">Diez campos. Si alguno queda en blanco, la delegación no está lista.</div>
+<div class="ft">
+ <div class="who"><div class="av">MS</div><div><div class="name">Mariano Silla</div><div class="role">IA · GOBERNANZA · FORMACIÓN</div></div><div class="ph">Decidir antes de delegar.</div></div>
+ <div class="src">Fuente: «Plantilla del mandato del agente de IA», apartados «Cómo se usa» y «La plantilla».</div>
+</div>
 </div></body></html>
