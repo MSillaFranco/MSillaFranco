@@ -14,7 +14,7 @@ ENTRADA
 - Texto fuente: $ARGUMENTS
   (si es una ruta, lee el archivo; si es texto, úsalo tal cual; si está vacío, pídemelo)
 - Idioma: español de España.
-- Autor: Mariano · Ochin Kraso · "Estratega en IA y gobernanza".
+- Autor: Mariano · Ochin Kraso · "Gobernanza de IA para publicidad, comunicación y medios".
 - Foto de perfil: si existe ./assets/avatar.png úsala; si no, un círculo con las iniciales MS.
 
 PASO 1. ADAPTACIÓN DEL TEXTO (sin inventar datos)
